@@ -1,4 +1,4 @@
-gopinba [![Build Status](https://travis-ci.org/kshvakov/gopinba.svg?branch=master)](https://travis-ci.org/kshvakov/gopinba) [![GoDoc](https://godoc.org/github.com/kshvakov/gopinba?status.svg)](https://godoc.org/github.com/kshvakov/gopinba/)
+gopinba [![Build Status](https://travis-ci.org/kshvakov/gopinba.svg?branch=master)](https://travis-ci.org/kshvakov/gopinba) [![GoDoc](https://godoc.org/github.com/hectorj/gopinba?status.svg)](https://godoc.org/github.com/hectorj/gopinba/)
 
 =======
 
